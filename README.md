@@ -12,7 +12,7 @@ This project analyzes the determinants of early marriage among women in Banglade
 1. **Data Cleaning & Preprocessing** – Removing missing values, recoding variables, handling categorical data.
 2. **Exploratory Data Analysis (EDA)** – Descriptive statistics & visualization (R, Power BI).
 3. **Modeling** – Logistic Regression to estimate the effect of socio-economic variables.
-4. **Visualization** – ggplot2 & Power BI dashboards for interactive insights.
+4. **Visualization** – R & STATA for interactive insights.
 
 ## 📊 Key Insights
 - Rural residence, lower education levels, and lower wealth index are significant predictors of early marriage.
