@@ -82,10 +82,10 @@ Significance: `*** p < 0.001`, `** p < 0.01`, `* p < 0.05`.
 
 ### Rate of Early Marriage All Over the Country
 
-![Description of Graph 1](Plots/Rplot01(2).png)
+![Description of Graph 1](Correlates-of-Minor-Marriage-in-Bangladesh-main/Plots/Rplot01(2).png)
 ### Migration
-![Description of Graph 1](Plots/Barplotfor_migration.png)
+![Description of Graph 1](Correlates-of-Minor-Marriage-in-Bangladesh-main/Plots/Barplotfor_migration.png)
 
 ### Age Distribution Household Head 
 
-![Description of Graph 2](Plots/hh.png)
+![Description of Graph 2](Correlates-of-Minor-Marriage-in-Bangladesh-main/Plots/hh.png)
