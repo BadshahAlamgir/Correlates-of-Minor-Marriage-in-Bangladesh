@@ -27,11 +27,11 @@ R | Power BI | ggplot2 | dplyr | Logistic Regression
 
 ### Rate of Early Marriage All Over the Country
 
-![Description of Graph 1](Rplot01(2).png)
+![Description of Graph 1](Plots/Rplot01(2).png)
 ### Migration
-![Description of Graph 1](Barplotfor_migration.png)
+![Description of Graph 1](Plots/Barplotfor_migration.png)
 
 ### Age Distribution Household Head 
 
-![Description of Graph 2](hh.png)
+![Description of Graph 2](Plots/hh.png)
 
