@@ -1,4 +1,4 @@
-# Correlates of Minor Marriage in Bangladesh
+# Correlates of Minor Marriage in Bangladesh: Findings from MICS 2019
 
 ## 📌 Overview
 This project analyzes the determinants of early marriage among women in Bangladesh using the Multiple Indicator Cluster Survey (MICS) 2019 dataset. The goal was to identify key socio-economic and demographic factors influencing early marriage patterns.
